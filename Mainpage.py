@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import altair as alt
 import pandas as pd
-from streamlit_marquee import streamlit_marquee
+# from streamlit_marquee import streamlit_marquee
 from pydataset import data
 import folium
 from geopy.geocoders import Nominatim
